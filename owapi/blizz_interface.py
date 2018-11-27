@@ -25,7 +25,7 @@ B_HEROES_URL = B_BASE_URL + "heroes"
 B_HERO_URL = B_HEROES_URL + "/{hero}"
 
 # The currently available specific regions.
-AVAILABLE_REGIONS = ["/eu", "/us", "/kr"]
+AVAILABLE_REGIONS = ["/us"]
 
 logger = logging.getLogger("OWAPI")
 
